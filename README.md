@@ -64,13 +64,13 @@ Tech: `Java` `Spring Boot` `React` `PostgreSQL`
 `Python` `TypeScript` `C++` `Java` `SQL`
 
 **Backend / Infra**  
-`FastAPI` `Spring Boot` `PostgreSQL` `SQLAlchemy` `Docker` `AWS` `SQS`
+`FastAPI` `Spring Boot` `PostgreSQL` `SQLAlchemy` `Docker` `AWS` `SQS`, `pydantic`
 
 **Frontend**  
 `Next.js` `React` `Tailwind CSS`
 
 **AI / ML**  
-`PyTorch` `TensorFlow` `RAG` `pgvector`
+`PyTorch` `TensorFlow` `RAG` `pgvector`, `LLMs`
 
 ---
 
@@ -85,8 +85,8 @@ Tech: `Java` `Spring Boot` `React` `PostgreSQL`
 
 ## Connect with me
 
-- LinkedIn: [your-linkedin-link]
-- Email: [your-email]
+- LinkedIn: https://www.linkedin.com/in/daniel-sterzel-2006a63a3/
+- Email: daniel.j.sterzel@gmail.com
 
 
 
