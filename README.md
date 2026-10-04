@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cat.gif" width="350" />
+  <img src="cat-overweight.gif" width="350" />
 </p>
 
 <h1 align="center">Hi, I'm Daniel 👋</h1>
