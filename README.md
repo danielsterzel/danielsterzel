@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="cat-overweight.gif" width="350" />
-</p>
-
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 
 <p align="center">
@@ -91,3 +87,11 @@ Tech: `Java` `Spring Boot` `React` `PostgreSQL`
 
 - LinkedIn: [your-linkedin-link]
 - Email: [your-email]
+
+
+
+<p align="center">
+  here is a gif of a dancing kitty
+  <img src="cat-overweight.gif" width="100" />
+</p>
+
